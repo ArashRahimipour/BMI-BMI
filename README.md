@@ -13,7 +13,7 @@ To start the project npm start
 ## Technology
 React.js
 
-## Deploy on github
+## Deploy on vercel
 The easiest way to deploy your react.js app is to use the [Vercel](https://bmi-ptoes9ya3-arashrahimipour.vercel.app/).
 
 Check out our [vercel documentation](https://vercel.com/docs) for more details.
